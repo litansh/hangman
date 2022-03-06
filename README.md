@@ -1,1 +1,3 @@
 # hangman
+
+Simple hangman script.
